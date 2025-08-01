@@ -80,12 +80,3 @@ This command runs an Nginx web server and maps port 80 of your computer to port 
 
 This is the same as the previous one, but it adds `-d` to run the Nginx container in the background. It keeps your terminal free while the web server continues running. This is the preferred way to run a service like Nginx for real use.
 
----
-
-### Note:
-
-The command `docker run -d-p 80:80 nginx` is **wrong** because `-d` and `-p` need to be separate with a space. It should be: `docker run -d -p 80:80 nginx`.
-
----
-
-
