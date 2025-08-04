@@ -2,7 +2,7 @@ JIRA :-
 
 JIRA is a project management tool by Atlassian used mainly by software teams to track tasks, bugs, and projects.
 
-SCRUM :- Scrum is a framework for managing software development; it divides work into small parts.
+SCRUM - Scrum is a framework for managing software development; it divides work into small parts.
 
 SPRINT :- Sprint is a time-based period in Scrum during which a specific set of work is completed and made ready for review.
 
